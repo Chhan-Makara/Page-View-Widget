@@ -1,6 +1,8 @@
 # page_view_widget
 
-A new Flutter project.
+This is demo of page view widget with fluter.
+![Screenshot 2025-02-10 102324](https://github.com/user-attachments/assets/711a1b01-3127-4761-8929-1cff1d9c85bd)
+
 
 ## Getting Started
 
